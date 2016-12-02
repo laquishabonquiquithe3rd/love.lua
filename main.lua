@@ -42,5 +42,4 @@ love.graphics.print("Celsius To Farenheit", 90, 5)
 love.graphics.print("Your Number To Convert", 78, 20)
 love.graphics.print(text, 150, 50)
 love.graphics.rectangle( "line", 53, 45, 200, 30 )
---love.graphics.print(no, 150, 50)
 end
